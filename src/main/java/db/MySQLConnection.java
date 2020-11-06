@@ -11,6 +11,7 @@ import java.util.Set;
 import entity.Item;
 import entity.Item.ItemBuilder;
 
+//add commend to practice git commend
 public class MySQLConnection {
 	private Connection conn;
 
